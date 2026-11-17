@@ -1,0 +1,2 @@
+# Preserve source excerpts and the bytes used by recorded integrity checks.
+* -text

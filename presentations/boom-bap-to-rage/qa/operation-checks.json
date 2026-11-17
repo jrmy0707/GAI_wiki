@@ -1,0 +1,41 @@
+[
+  {
+    "check": "last-next-disabled",
+    "passed": true
+  },
+  {
+    "check": "last-arrow-right",
+    "page": "jump",
+    "number": "13 / 13"
+  },
+  {
+    "check": "arrow-left",
+    "number": "12 / 13"
+  },
+  {
+    "check": "previous-button",
+    "number": "11 / 13"
+  },
+  {
+    "check": "next-button",
+    "number": "12 / 13"
+  },
+  {
+    "check": "home-first",
+    "number": "01 / 13",
+    "previousDisabled": true
+  },
+  {
+    "check": "first-arrow-left",
+    "number": "01 / 13"
+  },
+  {
+    "check": "end-last",
+    "number": "13 / 13"
+  },
+  {
+    "check": "keyboard-focus",
+    "outline": "rgb(182, 87, 17) solid 3px",
+    "tag": "A"
+  }
+]

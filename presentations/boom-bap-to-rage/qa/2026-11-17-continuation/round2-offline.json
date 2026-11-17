@@ -1,0 +1,26 @@
+{
+  "condition": "HTTP already loaded; local preview server stopped; no reload performed",
+  "slide": {
+    "documentHeight": 900,
+    "documentWidth": 1600,
+    "dpr": 1,
+    "height": 900,
+    "id": "slide-15",
+    "navBottom": 900,
+    "navTop": 832,
+    "navVisible": true,
+    "scale": 1,
+    "scrollY": 0,
+    "width": 1600
+  },
+  "source": {
+    "details": "S009 · Playboi Carti, a rap superstar who's never acted like one\n\nSheldon Pearce\nNPR; syndicated by KNKX\n\n發布：2025-03-18　更新：未知。\n\nNPR 音樂評論，實讀 KNKX 正文。人聲與跨作品比較屬作者觀點，不能概括全目錄。\n\n實際讀取網址（需網路）\n原始網址（需網路）\nWiki 來源筆記",
+    "focus": "S009 · Playboi Carti, a rap superstar who's never acted like one",
+    "open": true
+  },
+  "afterClose": {
+    "focus": "開啟來源 S009",
+    "scrollY": 0,
+    "slide": "slide-15"
+  }
+}

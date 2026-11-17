@@ -1,0 +1,15 @@
+{
+  "markdown_files": 40,
+  "local_links_checked": 984,
+  "fragment_links_checked": 575,
+  "wiki_pages_indexed": 17,
+  "source_notes": 10,
+  "source_status_counts": {
+    "pending": 0,
+    "blocked": 0,
+    "partial": 0,
+    "complete": 10
+  },
+  "errors": [],
+  "limits": "Checks structure only; does not prove source independence or historical truth."
+}

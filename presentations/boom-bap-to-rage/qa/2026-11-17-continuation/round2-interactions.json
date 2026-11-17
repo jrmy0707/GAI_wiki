@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-17",
+  "tests": [
+    {
+      "test": "first-left-boundary",
+      "documentHeight": 900,
+      "documentWidth": 1600,
+      "dpr": 1,
+      "height": 900,
+      "id": "slide-01",
+      "navBottom": 900,
+      "navTop": 832,
+      "navVisible": true,
+      "scale": 1,
+      "scrollY": 0,
+      "width": 1600,
+      "previousEnabled": false
+    },
+    {
+      "test": "next-button",
+      "documentHeight": 900,
+      "documentWidth": 1600,
+      "dpr": 1,
+      "height": 900,
+      "id": "slide-02",
+      "navBottom": 900,
+      "navTop": 832,
+      "navVisible": true,
+      "scale": 1,
+      "scrollY": 0,
+      "width": 1600
+    },
+    {
+      "test": "previous-button",
+      "documentHeight": 900,
+      "documentWidth": 1600,
+      "dpr": 1,
+      "height": 900,
+      "id": "slide-01",
+      "navBottom": 900,
+      "navTop": 832,
+      "navVisible": true,
+      "scale": 1,
+      "scrollY": 0,
+      "width": 1600
+    },
+    {
+      "test": "end-right-boundary",
+      "documentHeight": 900,
+      "documentWidth": 1600,
+      "dpr": 1,
+      "height": 900,
+      "id": "slide-13",
+      "navBottom": 900,
+      "navTop": 832,
+      "navVisible": true,
+      "scale": 1,
+      "scrollY": 0,
+      "width": 1600,
+      "nextEnabled": false
+    },
+    {
+      "test": "home-then-right",
+      "documentHeight": 900,
+      "documentWidth": 1600,
+      "dpr": 1,
+      "height": 900,
+      "id": "slide-02",
+      "navBottom": 900,
+      "navTop": 832,
+      "navVisible": true,
+      "scale": 1,
+      "scrollY": 0,
+      "width": 1600
+    },
+    {
+      "test": "inserted-slide14-next",
+      "documentHeight": 900,
+      "documentWidth": 1600,
+      "dpr": 1,
+      "height": 900,
+      "id": "slide-05",
+      "navBottom": 900,
+      "navTop": 832,
+      "navVisible": true,
+      "scale": 1,
+      "scrollY": 0,
+      "width": 1600
+    },
+    {
+      "test": "inserted-slide15-previous",
+      "documentHeight": 900,
+      "documentWidth": 1600,
+      "dpr": 1,
+      "height": 900,
+      "id": "slide-09",
+      "navBottom": 900,
+      "navTop": 832,
+      "navVisible": true,
+      "scale": 1,
+      "scrollY": 0,
+      "width": 1600
+    },
+    {
+      "test": "keyboard-focus",
+      "outline": "rgb(182, 87, 17) solid 3px",
+      "tag": "A",
+      "text": "S007"
+    }
+  ],
+  "sources": [
+    {
+      "sid": "S001",
+      "pid": "slide-03",
+      "openResult": {
+        "details": "S001 · In Search of Boom Bap\n\nPhillip Mlynar\nRed Bull Music Academy Daily\n\n發布：2013-11-13　更新：未知。\n\n含具名受訪者的報導。聲音與意圖多為自述；歷史核心仍主要依同一篇報導。\n\n實際讀取網址（需網路）\n原始網址（需網路）\nWiki 來源筆記",
+        "focus": "S001 · In Search of Boom Bap",
+        "scroll": 164,
+        "slide": "slide-03"
+      },
+      "afterRight": "slide-03",
+      "afterClose": {
+        "focus": "開啟來源 S001",
+        "scrollY": 0,
+        "slide": "slide-03"
+      }
+    },
+    {
+      "sid": "S003",
+      "pid": "slide-14",
+      "openResult": {
+        "details": "S003 · How Atlanta became the center of the rap universe\n\nJewel Wicker\nNPR; GPB and Wyoming Public Media syndicated versions\n\n發布：2023-07-19　更新：未知。\n\nNPR 報導，實讀 Wyoming Public Media 同篇轉載；GPB 原頁未成功取得。地域史解讀不等於市場排名。\n\n實際讀取網址（需網路）\n原始網址（需網路）\nWiki 來源筆記",
+        "focus": "S003 · How Atlanta became the center of the rap universe",
+        "scroll": 428,
+        "slide": "slide-14"
+      },
+      "afterRight": "slide-14",
+      "afterClose": {
+        "focus": "開啟來源 S003",
+        "scrollY": 0,
+        "slide": "slide-14"
+      }
+    },
+    {
+      "sid": "S004",
+      "pid": "slide-05",
+      "openResult": {
+        "details": "S004 · History of Trap Music\n\nUniversal Production Music；個人作者未知\nUniversal Production Music\n\n發布：2024-08-16　更新：未知。\n\n帶音樂庫推廣的機構概述。部分引語的 NPR 原始全文未取得，首次用語與製作名單保留待查。\n\n實際讀取網址（需網路）\n原始網址（需網路）\nWiki 來源筆記",
+        "focus": "S004 · History of Trap Music",
+        "scroll": 692,
+        "slide": "slide-05"
+      },
+      "afterRight": "slide-05",
+      "afterClose": {
+        "focus": "開啟來源 S004",
+        "scrollY": 0,
+        "slide": "slide-05"
+      }
+    },
+    {
+      "sid": "S005",
+      "pid": "slide-07",
+      "openResult": {
+        "details": "S005 · How Rap’s SoundCloud Generation Changed the Music Business Forever\n\nAlphonse Pierre\nPitchfork\n\n發布：2019-02-27　更新：未知。\n\n2019 年產業評論。分期、平台因果與商業權力屬作者觀點，不作今日現況。\n\n實際讀取網址（需網路）\n原始網址（需網路）\nWiki 來源筆記",
+        "focus": "S005 · How Rap’s SoundCloud Generation Changed the Music Business Forever",
+        "scroll": 956,
+        "slide": "slide-07"
+      },
+      "afterRight": "slide-07",
+      "afterClose": {
+        "focus": "開啟來源 S005",
+        "scrollY": 0,
+        "slide": "slide-07"
+      }
+    },
+    {
+      "sid": "S007",
+      "pid": "slide-08",
+      "openResult": {
+        "details": "S007 · The Rise Of Rage Music\n\nGabriel Bras Nevares\nHotNewHipHop\n\n發布：未知　更新：2022-11-22。\n\n曲風專題／評論，部分定義轉引 RYM，原分類頁未讀。原發布日未知，命名與影響保留作者歸屬。\n\n實際讀取網址（需網路）\n原始網址（需網路）\nWiki 來源筆記",
+        "focus": "S007 · The Rise Of Rage Music",
+        "scroll": 1220,
+        "slide": "slide-08"
+      },
+      "afterRight": "slide-08",
+      "afterClose": {
+        "focus": "開啟來源 S007",
+        "scrollY": 0,
+        "slide": "slide-08"
+      }
+    },
+    {
+      "sid": "S008",
+      "pid": "slide-09",
+      "openResult": {
+        "details": "S008 · Miss The Rage - Single — Apple Music US catalog record\n\nApple Music；個人目錄編輯未知\nApple Music\n\n發布：未知　更新：未知。作品發行：2021-05-07。\n\n只核對單曲核心目錄及 2021-05-07 作品發行日。日期不證明命名或起源，未播放音訊。\n\n實際讀取網址（需網路）\n原始網址（需網路）\nWiki 來源筆記",
+        "focus": "S008 · Miss The Rage - Single — Apple Music US catalog record",
+        "scroll": 1484,
+        "slide": "slide-09"
+      },
+      "afterRight": "slide-09",
+      "afterClose": {
+        "focus": "開啟來源 S008",
+        "scrollY": 0,
+        "slide": "slide-09"
+      }
+    },
+    {
+      "sid": "S009",
+      "pid": "slide-15",
+      "openResult": {
+        "details": "S009 · Playboi Carti, a rap superstar who's never acted like one\n\nSheldon Pearce\nNPR; syndicated by KNKX\n\n發布：2025-03-18　更新：未知。\n\nNPR 音樂評論，實讀 KNKX 正文。人聲與跨作品比較屬作者觀點，不能概括全目錄。\n\n實際讀取網址（需網路）\n原始網址（需網路）\nWiki 來源筆記",
+        "focus": "S009 · Playboi Carti, a rap superstar who's never acted like one",
+        "scroll": 1636,
+        "slide": "slide-15"
+      },
+      "afterRight": "slide-15",
+      "afterClose": {
+        "focus": "開啟來源 S009",
+        "scrollY": 0,
+        "slide": "slide-15"
+      }
+    },
+    {
+      "sid": "S010",
+      "pid": "slide-03",
+      "openResult": {
+        "details": "S010 · The A-to-Z of Synthesizer Terms\n\nRoland Resource Centre；個人作者未知\nRoland\n\n發布：未知　更新：未知。\n\n原廠教育術語表，只讀五個相關完整詞條；支持詞義，不證明特定作品使用某款器材。\n\n實際讀取網址（需網路）\n原始網址（需網路）\nWiki 來源筆記",
+        "focus": "S010 · The A-to-Z of Synthesizer Terms",
+        "scroll": 1636,
+        "slide": "slide-03"
+      },
+      "afterRight": "slide-03",
+      "afterClose": {
+        "focus": "開啟來源 S010",
+        "scrollY": 0,
+        "slide": "slide-03"
+      }
+    }
+  ],
+  "logs": []
+}

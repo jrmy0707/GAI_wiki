@@ -1,0 +1,447 @@
+{
+  "initial1366": [
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-01",
+      "w": 1366
+    },
+    {
+      "docH": 822,
+      "docW": 1351,
+      "h": 768,
+      "id": "slide-03",
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-04",
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-05",
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-06",
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-07",
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-08",
+      "w": 1366
+    },
+    {
+      "docH": 788,
+      "docW": 1351,
+      "h": 768,
+      "id": "slide-09",
+      "w": 1366
+    },
+    {
+      "docH": 799,
+      "docW": 1351,
+      "h": 768,
+      "id": "slide-10",
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-11",
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-12",
+      "w": 1366
+    },
+    {
+      "docH": 810,
+      "docW": 1351,
+      "h": 768,
+      "id": "slide-13",
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-02",
+      "w": 1366
+    }
+  ],
+  "first1920": [
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-01",
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-02",
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-03",
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-04",
+      "w": 1920
+    }
+  ],
+  "firstRecheck1366": [
+    {
+      "docH": 781,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-03",
+      "scrollY": 0,
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-04",
+      "scrollY": 0,
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-05",
+      "scrollY": 0,
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-09",
+      "scrollY": 0,
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-10",
+      "scrollY": 0,
+      "w": 1366
+    },
+    {
+      "docH": 768,
+      "docW": 1366,
+      "h": 768,
+      "id": "slide-13",
+      "scrollY": 0,
+      "w": 1366
+    }
+  ],
+  "final1920": [
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-01",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-02",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-03",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-04",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-05",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-06",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-07",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-08",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-09",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-10",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-11",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-12",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-13",
+      "scrollY": 0,
+      "w": 1920
+    }
+  ],
+  "sourceChecks": [
+    {
+      "focused": "S001 · In Search of Boom Bap",
+      "open": true,
+      "page": "slide-03",
+      "sourceTop": 154.734375
+    },
+    {
+      "focused": "S003 · How Atlanta became the center of the rap universe",
+      "open": true,
+      "page": "slide-04",
+      "sourceTop": 154.828125
+    },
+    {
+      "focused": "S004 · History of Trap Music",
+      "open": true,
+      "page": "slide-05",
+      "sourceTop": 153.921875
+    },
+    {
+      "focused": "S005 · How Rap’s SoundCloud Generation Changed the Music Business Forever",
+      "open": true,
+      "page": "slide-07",
+      "sourceTop": 154.015625
+    },
+    {
+      "focused": "S007 · The Rise Of Rage Music",
+      "open": true,
+      "page": "slide-08",
+      "sourceTop": 154.109375
+    },
+    {
+      "focused": "S008 · Miss The Rage - Single — Apple Music US catalog record",
+      "open": true,
+      "page": "slide-09",
+      "sourceTop": 154.203125
+    },
+    {
+      "focused": "S009 · Playboi Carti, a rap superstar who's never acted like one",
+      "open": true,
+      "page": "slide-12",
+      "sourceTop": 154.296875
+    },
+    {
+      "focused": "S010 · The A-to-Z of Synthesizer Terms",
+      "open": true,
+      "page": "slide-08",
+      "sourceTop": 412.390625
+    }
+  ],
+  "lateRepeatRequested1366Actual1920": [
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-01",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-02",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-03",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-04",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-05",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-06",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-07",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-08",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-09",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-10",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-11",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-12",
+      "scrollY": 0,
+      "w": 1920
+    },
+    {
+      "docH": 1080,
+      "docW": 1920,
+      "h": 1080,
+      "id": "slide-13",
+      "scrollY": 0,
+      "w": 1920
+    }
+  ],
+  "secondRecheck1366": [
+    {
+      "id": "slide-03",
+      "w": 1366,
+      "h": 768,
+      "docH": 768,
+      "scrollY": 0
+    }
+  ],
+  "notes": "Second 1366 recheck transcribed from the actual CUA result after the local gap fix. Late repeat requested 1366 but returned 1920; do not count it as another 1366 pass. Initial all-page 1366 plus affected-page rechecks establish coverage."
+}

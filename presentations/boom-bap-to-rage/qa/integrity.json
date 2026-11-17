@@ -1,0 +1,30 @@
+{
+  "expected_before": {
+    "AGENTS.md": "78d3f8ff8a7f5641b875a7349710eab060a149213196d943b080f5f6dd753826",
+    "presentation-loop.md": "85a4c515f7d473b19ad97b155123ac8a8ca12a0c13e099f221df26c95c258645",
+    "raw/s001-in-search-of-boom-bap-2026-11-16.md": "6ca82f10e0056804f6b304917f5cf889b3df6c3cd21fa64574c076700e52b37b",
+    "raw/s002-roger-linn-mpc60-2026-11-16.md": "6fe1fad85eee6cd5116b594877d65a0e289e8f8d02ecda8693f1590a5fa9c753",
+    "raw/s003-atlanta-rap-universe-2026-11-16.md": "d234c6aaa353dae7374293519cf23a4394b611f83063d925f27ac339f782ed39",
+    "raw/s004-history-of-trap-music-2026-11-16.md": "47ce755a79b0047ea5c31bdc911dd44d1dcf730b15716068ebafd10e4f3ea82d",
+    "raw/s005-soundcloud-generation-pitchfork-2026-11-16.md": "b832186053a5bc09ee17e031acbb4397d5c6b1922870f132a2516d1c18183193",
+    "raw/s006-riaa-album-streaming-award-2026-11-16.md": "24a0319d0a26d2376c6ecc657e3bedf0417ee274b221c6375eaa579692695036",
+    "raw/s007-rise-of-rage-music-2026-11-16.md": "78b70b64c8bfbfc498c8697d612887b6f8da2eea029d4eb8ef30d86b8bc70765",
+    "raw/s008-miss-the-rage-apple-music-2026-11-16.md": "0f3b8936621451e0a15aabb96c6bdc6cb04f3a43e1348f9ce14d2f1862d4419e",
+    "raw/s009-playboi-carti-npr-2026-11-16.md": "1057fea4b3100056d9e38ccf2b5c17a771af95dad599b245c2555f25bd8bd1a0"
+  },
+  "actual_after": {
+    "AGENTS.md": "78d3f8ff8a7f5641b875a7349710eab060a149213196d943b080f5f6dd753826",
+    "presentation-loop.md": "85a4c515f7d473b19ad97b155123ac8a8ca12a0c13e099f221df26c95c258645",
+    "raw/s001-in-search-of-boom-bap-2026-11-16.md": "6ca82f10e0056804f6b304917f5cf889b3df6c3cd21fa64574c076700e52b37b",
+    "raw/s002-roger-linn-mpc60-2026-11-16.md": "6fe1fad85eee6cd5116b594877d65a0e289e8f8d02ecda8693f1590a5fa9c753",
+    "raw/s003-atlanta-rap-universe-2026-11-16.md": "d234c6aaa353dae7374293519cf23a4394b611f83063d925f27ac339f782ed39",
+    "raw/s004-history-of-trap-music-2026-11-16.md": "47ce755a79b0047ea5c31bdc911dd44d1dcf730b15716068ebafd10e4f3ea82d",
+    "raw/s005-soundcloud-generation-pitchfork-2026-11-16.md": "b832186053a5bc09ee17e031acbb4397d5c6b1922870f132a2516d1c18183193",
+    "raw/s006-riaa-album-streaming-award-2026-11-16.md": "24a0319d0a26d2376c6ecc657e3bedf0417ee274b221c6375eaa579692695036",
+    "raw/s007-rise-of-rage-music-2026-11-16.md": "78b70b64c8bfbfc498c8697d612887b6f8da2eea029d4eb8ef30d86b8bc70765",
+    "raw/s008-miss-the-rage-apple-music-2026-11-16.md": "0f3b8936621451e0a15aabb96c6bdc6cb04f3a43e1348f9ce14d2f1862d4419e",
+    "raw/s009-playboi-carti-npr-2026-11-16.md": "1057fea4b3100056d9e38ccf2b5c17a771af95dad599b245c2555f25bd8bd1a0"
+  },
+  "mismatches": [],
+  "html_sha256": "3c44c739a1f28cceefc6e5c132e8c8670411b92f47539e22720c18995497e097"
+}

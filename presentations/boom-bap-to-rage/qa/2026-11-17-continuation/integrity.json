@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-17",
+  "baseline_files": 30,
+  "unchanged": 29,
+  "changes": [
+    {
+      "path": "wiki\\index.md",
+      "before": "4d260f799acaffab9f6e0a0a41cb2549c6a4b42db31a139754556daeffa2fecf",
+      "after": "c9e663cff52c215e9c2aae17b2a1dec08481ad3b1d2013b2719492bc0a6fd9e2"
+    }
+  ],
+  "html_sha256": "7200bf103f3678db2f109a412dc16857cbc04cbead5097af5529fdc93dd7baf9",
+  "html_bytes": 39678,
+  "note": "HTML has not been edited since round 2 browser inspection; core expected change is wiki/index.md."
+}
